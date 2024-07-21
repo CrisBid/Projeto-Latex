@@ -54,8 +54,20 @@
 \contentsline {subsection}{\numberline {5.4.8}Tela de Pagamentos}{40}{subsection.5.4.8}%
 \contentsline {chapter}{\chapternumberline {6}Conclusão Geral}{43}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Principais Resultados}{43}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Contribuições do Trabalho}{43}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Sugestões para Trabalhos Futuros}{43}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Reflexões Finais}{44}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Considerações Finais}{44}{section.6.5}%
+\contentsline {section}{\numberline {6.2}Resultados da Pesquisa de Feedback}{43}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Perfil dos Participantes}{43}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Avaliação do Serviço Atual}{43}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Problemas Encontrados no Serviço Atual}{44}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Plataforma Utilizada}{44}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.5}Problemas nas Plataformas}{44}{subsection.6.2.5}%
+\contentsline {subsection}{\numberline {6.2.6}Comparação com o Sistema Atual}{44}{subsection.6.2.6}%
+\contentsline {subsection}{\numberline {6.2.7}Vantagens e Desvantagens do Aplicativo}{44}{subsection.6.2.7}%
+\contentsline {subsection}{\numberline {6.2.8}Melhorias Sugeridas}{45}{subsection.6.2.8}%
+\contentsline {subsection}{\numberline {6.2.9}Opiniões Gerais sobre o Aplicativo}{45}{subsection.6.2.9}%
+\contentsline {section}{\numberline {6.3}Discussão dos Resultados}{45}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Contribuições do Trabalho}{45}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Conclusões e Trabalhos Futuros}{45}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}Sugestões para Trabalhos Futuros}{46}{subsection.6.5.1}%
+\contentsline {section}{\numberline {6.6}Reflexões Finais}{46}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Considerações Finais}{46}{section.6.7}%
 \vspace {\cftbeforepartskip }

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.1)  18 MAY 2024 14:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.1)  21 JUL 2024 18:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1364,7 +1364,7 @@ ne 315.
 LaTeX Warning: Citation 'pinheiro-analise-apps-mobile' on page 13 undefined on 
 input line 319.
 
-<Imagens/NativevsMulplataforma.png, id=266, 697.60625pt x 906.38625pt>
+<Imagens/NativevsMulplataforma.png, id=290, 697.60625pt x 906.38625pt>
 File: Imagens/NativevsMulplataforma.png Graphic file (type png)
 <use Imagens/NativevsMulplataforma.png>
 Package pdftex.def Info: Imagens/NativevsMulplataforma.png  used on input line 
@@ -1410,7 +1410,7 @@ LaTeX Warning: Citation 'alura-react-native' on page 16 undefined on input line
  383.
 
 [16]
-<Imagens/arquitetura-react-native.jpg, id=285, 803.0pt x 713.66624pt>
+<Imagens/arquitetura-react-native.jpg, id=309, 803.0pt x 713.66624pt>
 File: Imagens/arquitetura-react-native.jpg Graphic file (type jpg)
 <use Imagens/arquitetura-react-native.jpg>
 Package pdftex.def Info: Imagens/arquitetura-react-native.jpg  used on input li
@@ -1491,26 +1491,26 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <17.28> not available
  [26
 
 ] [27] [28]
-<Imagens/App Images User/AU1.png, id=346, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AU1.png, id=370, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AU1.png Graphic file (type png)
 <use Imagens/App Images User/AU1.png>
 Package pdftex.def Info: Imagens/App Images User/AU1.png  used on input line 61
 8.
 (pdftex.def)             Requested size: 181.99722pt x 404.41518pt.
-<Imagens/App Images User/AU2.png, id=349, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AU2.png, id=373, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AU2.png Graphic file (type png)
 <use Imagens/App Images User/AU2.png>
 Package pdftex.def Info: Imagens/App Images User/AU2.png  used on input line 63
 1.
 (pdftex.def)             Requested size: 181.99722pt x 404.41518pt.
  [29 <./Imagens/App Images User/AU1.png>]
-<Imagens/App Images User/AUCadastro10.png, id=357, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUCadastro10.png, id=381, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUCadastro10.png Graphic file (type png)
 <use Imagens/App Images User/AUCadastro10.png>
 Package pdftex.def Info: Imagens/App Images User/AUCadastro10.png  used on inpu
 t line 643.
 (pdftex.def)             Requested size: 182.00069pt x 404.41518pt.
-<Imagens/App Images User/AUCadastro1.png, id=358, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUCadastro1.png, id=382, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUCadastro1.png Graphic file (type png)
 <use Imagens/App Images User/AUCadastro1.png>
 Package pdftex.def Info: Imagens/App Images User/AUCadastro1.png  used on input
@@ -1521,13 +1521,13 @@ Package pdftex.def Info: Imagens/App Images User/AUCadastro1.png  used on input
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [30 <./Imagens/App Images User/AU2.png>]
-<Imagens/App Images User/AUCadastro11.png, id=367, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUCadastro11.png, id=391, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUCadastro11.png Graphic file (type png)
 <use Imagens/App Images User/AUCadastro11.png>
 Package pdftex.def Info: Imagens/App Images User/AUCadastro11.png  used on inpu
 t line 665.
 (pdftex.def)             Requested size: 182.00069pt x 404.41518pt.
-<Imagens/App Images User/AUCadastro2.png, id=368, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUCadastro2.png, id=392, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUCadastro2.png Graphic file (type png)
 <use Imagens/App Images User/AUCadastro2.png>
 Package pdftex.def Info: Imagens/App Images User/AUCadastro2.png  used on input
@@ -1539,13 +1539,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [31 <./Imagens/App Images User/AUCadastro10.png> <./Imagens/App Images User/AUC
 adastro1.png>]
-<Imagens/App Images User/AUCadastro12.png, id=377, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUCadastro12.png, id=401, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUCadastro12.png Graphic file (type png)
 <use Imagens/App Images User/AUCadastro12.png>
 Package pdftex.def Info: Imagens/App Images User/AUCadastro12.png  used on inpu
 t line 686.
 (pdftex.def)             Requested size: 182.00069pt x 404.41518pt.
-<Imagens/App Images User/AUCadastro3.png, id=378, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUCadastro3.png, id=402, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUCadastro3.png Graphic file (type png)
 <use Imagens/App Images User/AUCadastro3.png>
 Package pdftex.def Info: Imagens/App Images User/AUCadastro3.png  used on input
@@ -1557,13 +1557,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [32 <./Imagens/App Images User/AUCadastro11.png> <./Imagens/App Images User/AUC
 adastro2.png>]
-<Imagens/App Images User/AUCadastro13.png, id=387, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUCadastro13.png, id=411, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUCadastro13.png Graphic file (type png)
 <use Imagens/App Images User/AUCadastro13.png>
 Package pdftex.def Info: Imagens/App Images User/AUCadastro13.png  used on inpu
 t line 706.
 (pdftex.def)             Requested size: 182.00069pt x 404.41518pt.
-<Imagens/App Images User/AUCadastro4.png, id=388, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUCadastro4.png, id=412, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUCadastro4.png Graphic file (type png)
 <use Imagens/App Images User/AUCadastro4.png>
 Package pdftex.def Info: Imagens/App Images User/AUCadastro4.png  used on input
@@ -1575,13 +1575,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [33 <./Imagens/App Images User/AUCadastro12.png> <./Imagens/App Images User/AUC
 adastro3.png>]
-<Imagens/App Images User/AUCadastro14.png, id=397, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUCadastro14.png, id=421, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUCadastro14.png Graphic file (type png)
 <use Imagens/App Images User/AUCadastro14.png>
 Package pdftex.def Info: Imagens/App Images User/AUCadastro14.png  used on inpu
 t line 726.
 (pdftex.def)             Requested size: 182.00069pt x 404.41518pt.
-<Imagens/App Images User/AUCadastro5.png, id=398, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUCadastro5.png, id=422, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUCadastro5.png Graphic file (type png)
 <use Imagens/App Images User/AUCadastro5.png>
 Package pdftex.def Info: Imagens/App Images User/AUCadastro5.png  used on input
@@ -1593,13 +1593,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [34 <./Imagens/App Images User/AUCadastro13.png> <./Imagens/App Images User/AUC
 adastro4.png>]
-<Imagens/App Images User/AUCadastro15.png, id=407, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUCadastro15.png, id=431, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUCadastro15.png Graphic file (type png)
 <use Imagens/App Images User/AUCadastro15.png>
 Package pdftex.def Info: Imagens/App Images User/AUCadastro15.png  used on inpu
 t line 746.
 (pdftex.def)             Requested size: 182.00069pt x 404.41518pt.
-<Imagens/App Images User/AUCadastro6.png, id=408, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUCadastro6.png, id=432, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUCadastro6.png Graphic file (type png)
 <use Imagens/App Images User/AUCadastro6.png>
 Package pdftex.def Info: Imagens/App Images User/AUCadastro6.png  used on input
@@ -1611,13 +1611,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [35 <./Imagens/App Images User/AUCadastro14.png> <./Imagens/App Images User/AUC
 adastro5.png>]
-<Imagens/App Images User/AUCadastroConf1.png, id=417, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUCadastroConf1.png, id=441, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUCadastroConf1.png Graphic file (type png)
 <use Imagens/App Images User/AUCadastroConf1.png>
 Package pdftex.def Info: Imagens/App Images User/AUCadastroConf1.png  used on i
 nput line 766.
 (pdftex.def)             Requested size: 182.00069pt x 404.41518pt.
-<Imagens/App Images User/AUCadastroConf2.png, id=418, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUCadastroConf2.png, id=442, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUCadastroConf2.png Graphic file (type png)
 <use Imagens/App Images User/AUCadastroConf2.png>
 Package pdftex.def Info: Imagens/App Images User/AUCadastroConf2.png  used on i
@@ -1629,7 +1629,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [36 <./Imagens/App Images User/AUCadastro15.png> <./Imagens/App Images User/AUC
 adastro6.png>]
-<Imagens/App Images User/AUHome.png, id=427, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUHome.png, id=451, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUHome.png Graphic file (type png)
 <use Imagens/App Images User/AUHome.png>
 Package pdftex.def Info: Imagens/App Images User/AUHome.png  used on input line
@@ -1651,13 +1651,13 @@ nput line 803.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [38 <./Imagens/App Images User/AUHome.png>]
-<Imagens/App Images User/AUAjuda1.png, id=442, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUAjuda1.png, id=466, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUAjuda1.png Graphic file (type png)
 <use Imagens/App Images User/AUAjuda1.png>
 Package pdftex.def Info: Imagens/App Images User/AUAjuda1.png  used on input li
 ne 817.
 (pdftex.def)             Requested size: 182.00069pt x 404.41518pt.
-<Imagens/App Images User/AUAjuda2.png, id=443, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUAjuda2.png, id=467, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUAjuda2.png Graphic file (type png)
 <use Imagens/App Images User/AUAjuda2.png>
 Package pdftex.def Info: Imagens/App Images User/AUAjuda2.png  used on input li
@@ -1668,13 +1668,13 @@ ne 825.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [39]
-<Imagens/App Images User/AUPontos1.png, id=450, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUPontos1.png, id=474, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUPontos1.png Graphic file (type png)
 <use Imagens/App Images User/AUPontos1.png>
 Package pdftex.def Info: Imagens/App Images User/AUPontos1.png  used on input l
 ine 838.
 (pdftex.def)             Requested size: 182.00069pt x 404.41518pt.
-<Imagens/App Images User/AUPontos2.png, id=451, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUPontos2.png, id=475, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUPontos2.png Graphic file (type png)
 <use Imagens/App Images User/AUPontos2.png>
 Package pdftex.def Info: Imagens/App Images User/AUPontos2.png  used on input l
@@ -1686,13 +1686,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [40 <./Imagens/App Images User/AUAjuda1.png> <./Imagens/App Images User/AUAjuda
 2.png>]
-<Imagens/App Images User/AUPagamento1.png, id=460, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUPagamento1.png, id=484, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUPagamento1.png Graphic file (type png)
 <use Imagens/App Images User/AUPagamento1.png>
 Package pdftex.def Info: Imagens/App Images User/AUPagamento1.png  used on inpu
 t line 860.
 (pdftex.def)             Requested size: 182.00069pt x 404.41518pt.
-<Imagens/App Images User/AUPagamento2.png, id=461, 1084.05pt x 2409.0pt>
+<Imagens/App Images User/AUPagamento2.png, id=485, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUPagamento2.png Graphic file (type png)
 <use Imagens/App Images User/AUPagamento2.png>
 Package pdftex.def Info: Imagens/App Images User/AUPagamento2.png  used on inpu
@@ -1706,11 +1706,16 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 os2.png>] [42 <./Imagens/App Images User/AUPagamento1.png> <./Imagens/App Image
 s User/AUPagamento2.png>] [43
 
-]
+] [44] [45]
 
-LaTeX Warning: Empty bibliography on input line 935.
+LaTeX Warning: Citation 'miranda2019infraestrutura' on page 46 undefined on inp
+ut line 1003.
 
-[44]
+[46]
+
+LaTeX Warning: Empty bibliography on input line 1032.
+
+[47]
 \tf@lof=\write5
 \openout5 = `UFV-modelo-TCC.lof'.
 
@@ -1739,10 +1744,10 @@ Package logreq Info: Writing requests to 'UFV-modelo-TCC.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25464 strings out of 474486
- 451131 string characters out of 5743756
- 1942542 words of memory out of 5000000
- 47064 multiletter control sequences out of 15000+600000
+ 25498 strings out of 474486
+ 451577 string characters out of 5743756
+ 1943542 words of memory out of 5000000
+ 47082 multiletter control sequences out of 15000+600000
  632560 words of font info for 169 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,107p,1360b,4319s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1759,9 +1764,9 @@ fb><C:/Users/leand/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.
 pfb><C:/Users/leand/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso17
 .pfb><C:/Users/leand/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10
 .pfb>
-Output written on UFV-modelo-TCC.pdf (45 pages, 3237839 bytes).
+Output written on UFV-modelo-TCC.pdf (48 pages, 3252974 bytes).
 PDF statistics:
- 767 PDF objects out of 1000 (max. 8388607)
- 148 named destinations out of 1000 (max. 500000)
- 41598 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 843 PDF objects out of 1000 (max. 8388607)
+ 164 named destinations out of 1000 (max. 500000)
+ 41694 words of extra memory for PDF output out of 42996 (max. 10000000)
 
