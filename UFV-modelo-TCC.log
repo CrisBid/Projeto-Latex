@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.1)  21 JUL 2024 18:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.1)  26 JUL 2024 20:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1672,13 +1672,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: Imagens/App Images User/AUPontos1.png Graphic file (type png)
 <use Imagens/App Images User/AUPontos1.png>
 Package pdftex.def Info: Imagens/App Images User/AUPontos1.png  used on input l
-ine 838.
+ine 840.
 (pdftex.def)             Requested size: 182.00069pt x 404.41518pt.
 <Imagens/App Images User/AUPontos2.png, id=475, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUPontos2.png Graphic file (type png)
 <use Imagens/App Images User/AUPontos2.png>
 Package pdftex.def Info: Imagens/App Images User/AUPontos2.png  used on input l
-ine 846.
+ine 848.
 (pdftex.def)             Requested size: 182.00069pt x 404.41518pt.
 
 
@@ -1690,13 +1690,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: Imagens/App Images User/AUPagamento1.png Graphic file (type png)
 <use Imagens/App Images User/AUPagamento1.png>
 Package pdftex.def Info: Imagens/App Images User/AUPagamento1.png  used on inpu
-t line 860.
+t line 862.
 (pdftex.def)             Requested size: 182.00069pt x 404.41518pt.
 <Imagens/App Images User/AUPagamento2.png, id=485, 1084.05pt x 2409.0pt>
 File: Imagens/App Images User/AUPagamento2.png Graphic file (type png)
 <use Imagens/App Images User/AUPagamento2.png>
 Package pdftex.def Info: Imagens/App Images User/AUPagamento2.png  used on inpu
-t line 868.
+t line 870.
 (pdftex.def)             Requested size: 182.00069pt x 404.41518pt.
 
 
@@ -1709,11 +1709,11 @@ s User/AUPagamento2.png>] [43
 ] [44] [45]
 
 LaTeX Warning: Citation 'miranda2019infraestrutura' on page 46 undefined on inp
-ut line 1003.
+ut line 1005.
 
 [46]
 
-LaTeX Warning: Empty bibliography on input line 1032.
+LaTeX Warning: Empty bibliography on input line 1034.
 
 [47]
 \tf@lof=\write5
@@ -1764,7 +1764,7 @@ fb><C:/Users/leand/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.
 pfb><C:/Users/leand/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso17
 .pfb><C:/Users/leand/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10
 .pfb>
-Output written on UFV-modelo-TCC.pdf (48 pages, 3252974 bytes).
+Output written on UFV-modelo-TCC.pdf (48 pages, 3254624 bytes).
 PDF statistics:
  843 PDF objects out of 1000 (max. 8388607)
  164 named destinations out of 1000 (max. 500000)
